@@ -10,7 +10,7 @@ Copyright (c) 2004 Baseline Research
 Licensed under the LGPL
 """
 
-from pcapy  import *
+from pure_pcapy  import *
 from socket import *
 
 __all__ = ["Input", "Pcap", "ASCII" ]

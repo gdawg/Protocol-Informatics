@@ -7,9 +7,8 @@
 #
 # Licensed under the LGPL
 #
-
-from PI import *
 import sys, getopt
+from . import distance,input,multialign,output,phylogeny,tree
 
 def main():
 
